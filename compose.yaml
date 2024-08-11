@@ -1,0 +1,21 @@
+version: '3'
+services:
+  WebApp:
+    build: .
+    command: python manage.py runserver 0.0.0.0:8000
+    ports:
+      - "8000:8000"
+    depends_on:
+      - Database
+    environment:
+      DATABASE_NAME: notesdb
+      DATABASE_USER: admin
+      DATABASE_PASSWORD: admin
+
+
+  Database:
+    image: postgres
+    environment:
+      POSTGRES_DB: notesdb
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: admin
