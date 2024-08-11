@@ -1,19 +1,17 @@
-version: '3'
 services:
-  WebApp:
+  webapp:
     build: .
-    command: python manage.py runserver 0.0.0.0:8000
+    command: bash -c "python manage.py migrate && python manage.py runserver 0.0.0.0:8000"
     ports:
       - "8000:8000"
     depends_on:
-      - Database
+      - database
     environment:
       DATABASE_NAME: notesdb
       DATABASE_USER: admin
       DATABASE_PASSWORD: admin
 
-
-  Database:
+  database:
     image: postgres
     environment:
       POSTGRES_DB: notesdb
