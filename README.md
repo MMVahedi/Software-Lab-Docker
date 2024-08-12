@@ -1,4 +1,4 @@
-<img width="1511" alt="Screenshot 2024-08-12 at 1 18 52 PM" src="https://github.com/user-attachments/assets/a3c62440-0aff-4ec2-a4ac-18d4af7d8b4f"># Software-Lab-Docker
+# Software-Lab-Docker
 ## استقرار پروژه 
 ## ارسال درخواست به وب سرور
 اکنون که پروژه بالا آمده است می‌توانیم به صورت زیر یک superuser بسازیم:
