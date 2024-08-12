@@ -15,10 +15,17 @@
 <img width="1511" alt="Screenshot 2024-08-12 at 1 18 52 PM" src="https://github.com/user-attachments/assets/d4e62ab5-715c-4356-ba55-203752f45adb">
 <img width="1512" alt="Screenshot 2024-08-12 at 1 19 32 PM" src="https://github.com/user-attachments/assets/9c13f964-009e-4491-8454-eb1dabfd7ced">
 
+حال اگر دوباره لاگین کنیم می‌بینیم که یوزرها و نوت‌های یوزر۱ موجود است:
+<img width="1171" alt="Screenshot 2024-08-12 at 5 00 39 PM" src="https://github.com/user-attachments/assets/33980f48-7bc3-4e2c-a1c1-1faff87d6176">
+
+<img width="1186" alt="Screenshot 2024-08-12 at 5 00 12 PM" src="https://github.com/user-attachments/assets/78780375-bab7-4faa-aa57-d85018f0b503">
+<img width="1212" alt="Screenshot 2024-08-12 at 5 00 25 PM" src="https://github.com/user-attachments/assets/f843672c-98a2-459e-acae-a728ff269fa2">
+
 
 ## تعامل با داکر 
 ## پرسش‌ها
 
+### پرسش اول
 وظایف Dockerfile، image و container را توضیح دهید.
 
 وظایف Dockerfile:
@@ -34,3 +41,8 @@
 اجرای نرم‌افزار در یک محیط ایزوله: کانتینر یک محیط اجرایی سبک و ایزوله است که بر اساس یک Docker image ساخته می‌شود. کانتینرها اطمینان می‌دهند که برنامه در یک محیط مشخص و ایزوله اجرا می‌شود.
 مدیریت منابع: کانتینرها منابع سیستم از جمله CPU، حافظه و فضای دیسک را بهینه مصرف می‌کنند. آن‌ها به مراتب سبک‌تر از ماشین‌های مجازی (VM) هستند و امکان ایجاد، اجرا و متوقف کردن سریع آن‌ها وجود دارد.
 همگرایی محیط‌ها: کانتینرها به توسعه‌دهندگان و مدیران سیستم اجازه می‌دهند تا اطمینان حاصل کنند که نرم‌افزار در تمامی محیط‌ها (توسعه، تست و تولید) به شکل یکسان اجرا می‌شود، بدون وابستگی به محیط خاصی.
+
+
+### پرسش دوم
+
+
