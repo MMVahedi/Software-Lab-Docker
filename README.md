@@ -23,6 +23,16 @@
 
 
 ## تعامل با داکر 
+با کمک دستور زیر می‌توانیم کانتینر ها و ایمیج هایمان را مشاهده کنیم:
+
+<img width="683" alt="Screenshot 2024-08-12 at 10 57 03 PM" src="https://github.com/user-attachments/assets/7daac7df-c0f7-4c14-abbe-250a5e1045d8">
+<img width="1285" alt="Screenshot 2024-08-12 at 11 08 00 PM" src="https://github.com/user-attachments/assets/3d39db68-9641-4c73-ba78-a445a72e5094">
+
+
+که در اینجا sotware-lab-webapp و postgres ایمیج‌های مربوط به این پروژه هستند. حال در webapp دستورات زیر را ران می‌کنیم:
+
+<img width="1018" alt="Screenshot 2024-08-12 at 11 06 47 PM" src="https://github.com/user-attachments/assets/21d517ca-3044-44d4-b78d-8fbab5584f36">
+
 ## پرسش‌ها
 
 ### پرسش اول
